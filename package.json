@@ -1,0 +1,16 @@
+{
+  "name": "qing-lin-node-todo",
+  "bin": {
+    "todo": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "0.0.9",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^8.1.0"
+  }
+}
